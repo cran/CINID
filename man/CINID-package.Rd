@@ -1,6 +1,6 @@
-\name{CINID-package}
-\alias{CINID-package}
-\alias{CINID}
+\name{cinid-package}
+\alias{cinid-package}
+\alias{cinid}
 \docType{package}
 \title{Package on the Curculionidae INstar IDentification}
 
@@ -16,10 +16,10 @@
 
 \details{
 \tabular{ll}{
-Package: \tab CINID\cr
+Package: \tab cinid\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-10-11\cr
+Version: \tab 0.9\cr
+Date: \tab 2013-07-03\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 }
@@ -31,7 +31,7 @@ Maintainer: aurelie.siberchicot@univ-lyon1.fr
 }
 
 \references{
-Merville et al., under review, European Journal of Entomology, Determining the instar of a larva: a parsimonious method applied to weevil species.
+Merville et al. (2014). Determining the instar of a weevil larva (Coleoptera:Curculionidae) using a parsimonious method. European Journal of Entomology. 111(4). doi: 10.14411/eje.2014.056 
 }
 
 \keyword{package}

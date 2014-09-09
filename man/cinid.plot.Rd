@@ -8,8 +8,8 @@ defined formerly by the \code{\link{cinid.table}} function (you must use \code{c
 }
 
 \usage{
-cinid.plot(cinid.out, breaks = 50, xlab = "Headcapsules width", 
-  ylab1 = "Density", ylab2 = "Number of Larvae", main = "", \dots)
+cinid.plot(cinid.out, breaks = 50, xlab = "Headcapsules width", ylab1 = "Density", 
+ylab2 = "Number of Larvae", main = "", \dots)
 }
 
 \arguments{
@@ -30,7 +30,7 @@ An object of class `histogram`. See `hist`.
 }
 
 \references{
-Merville et al., under review, European Journal of Entomology, Determining the instar of a larva: a parsimonious method applied to weevil species.
+Merville et al. (2014). Determining the instar of a weevil larva (Coleoptera:Curculionidae) using a parsimonious method. European Journal of Entomology. 111(4). doi: 10.14411/eje.2014.056
 }
 
 \author{

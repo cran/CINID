@@ -22,7 +22,7 @@ The format is a list of three elements:\itemize{
 }}
 
 \references{
-Merville et al., under review, European Journal of Entomology, Determining the instar of a larva: a parsimonious method applied to weevil species.
+Merville et al. (2014). Determining the instar of a weevil larva (Coleoptera:Curculionidae) using a parsimonious method. European Journal of Entomology. 111(4). doi: 10.14411/eje.2014.056
 }
 
 \examples{
