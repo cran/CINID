@@ -1,4 +1,5 @@
 import(graphics)
 import(utils)
 import(stats)
-exportPattern(".")
+
+export(cinid.table, cinid.plot)

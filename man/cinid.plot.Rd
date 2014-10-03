@@ -30,7 +30,7 @@ An object of class `histogram`. See `hist`.
 }
 
 \references{
-Merville et al. (2014). Determining the instar of a weevil larva (Coleoptera:Curculionidae) using a parsimonious method. European Journal of Entomology. 111(4). doi: 10.14411/eje.2014.056
+Merville A., Vallier A., Venner S., Siberchicot A., Fouchet D., Heddi A. and Bel-Venner M.-C. (2014). Determining the instar of a weevil larva (Coleoptera:Curculionidae) using a parsimonious method. European Journal of Entomology. 111(4): 567-573. doi: 10.14411/eje.2014.056
 }
 
 \author{

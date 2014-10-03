@@ -1,9 +1,9 @@
-2af5f8f13415842a0bc45f09e24f7768 *DESCRIPTION
-5647525be6afae5ff5f990e849757fba *NAMESPACE
+fd0a41041e4236e609b906703e26b40e *DESCRIPTION
+389585986b6ebfc2194e1ea4d6173201 *NAMESPACE
 af0ec64adad10720d773c83c53d601a8 *R/cinid.plot.R
 db2bf25cf88f22277ace97df534d9eed *R/cinid.table.R
 dfdcbfc37d90342511b3df7b853636d0 *data/s.oryzae.rda
-7d931e70042480fa6701230b7896090a *man/cinid-package.Rd
-b395e5f01630113f5e70080d471bb7cf *man/cinid.plot.Rd
-282cfe6be7936c9c52af956b49c8ea3f *man/cinid.table.Rd
-e243a237dc4ef213a129fb9d57668ade *man/s.oryzae.Rd
+e42cb6ca3fee0b7e4ae818717366c3c5 *man/cinid-package.Rd
+cc9087ac45497eff0618d84015576434 *man/cinid.plot.Rd
+651490db5e53d137f5203d547962c965 *man/cinid.table.Rd
+463b5687901d0d517bda08d8a745d045 *man/s.oryzae.Rd
