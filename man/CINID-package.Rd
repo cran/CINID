@@ -14,17 +14,6 @@
   The regular usage in this package is to use firstly the \code{\link{cinid.table}} function and secondly the \code{\link{cinid.plot}} function.
 }
 
-\details{
-\tabular{ll}{
-Package: \tab CINID\cr
-Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2014-10-03\cr
-License: \tab GPL (>=2)\cr
-LazyLoad: \tab yes\cr
-}
-}
-
 \author{
 Aurelie Siberchicot, Adrien Merville, Marie-Claude Bel-Venner and Samuel Venner\cr
 Maintainer: aurelie.siberchicot@univ-lyon1.fr 
